@@ -65,6 +65,7 @@ header {
   nav {
       padding-top: 70px;
       font-size: 20px;
+      border-top: solid;
   }
   
   nav ul {
