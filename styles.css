@@ -22,7 +22,7 @@ header {
     flex-direction: column;
     padding: 20px;
     background-color: white;
-    border-bottom: 1px solid #ddd;
+    border-bottom: 1px solid black;
   }
   
   .header-container {
