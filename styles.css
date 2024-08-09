@@ -46,6 +46,7 @@ header {
     transform: translateX(-50%);
     z-index: 5;
     padding-top: 50px;
+    padding-bottom: 40px;
   }
   
   .logo img {
