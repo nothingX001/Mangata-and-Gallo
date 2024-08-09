@@ -235,5 +235,14 @@ header {
       text-align: start;
     }
 
+    .logo img {
+    max-width: 250px;
+    height: auto;
+  }
+
+    .shopping-cart img {
+        display: none;
+    }
+
   }
   
